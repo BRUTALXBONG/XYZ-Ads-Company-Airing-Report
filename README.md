@@ -52,3 +52,11 @@ The following graph shows the various brand in TV airings and how it has changed
 The next graph shows the sum of EQ Units by Brands according to the different Quarters of the year.
 
 ![Screenshot (11)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/f0bdfe04-ef15-4898-9b7a-aca77ad99bed)
+
+### _Study 3_
+Insights:
+* Honda Cars has spent most on Daytime.
+* Hyundai, Mahindra and Mahindra, Maruti Suzuki and Tata motors have spent most of their money for Prime time with Maruti Suzuki being the highest.
+* Toyota has spent most of its money for airing the ads on weekend followed by Primetime.
+* Maruti Suzuki and Honda Cars had aired ads maximum number of times on the Daytime thus shows it has provided most number of ads exposure during this time followed by MAhindra and Mahindra.
+![Screenshot (12)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/9fcae813-37aa-42cd-abf3-2b4becb087fb)
