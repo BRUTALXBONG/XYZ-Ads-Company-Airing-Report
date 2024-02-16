@@ -1,4 +1,6 @@
 # XYZ-Ads-Company-Airing-Report
+## Business Understanding:
+Advertising is a way of marketing your business in order to increase sales or make your audience aware of your products or services. Until a customer deals with you directly and actually buys your products or services, your advertising may help to form their first impressions of your business. Target audience for businesses could be local, regional, national or international or a mixture. So they use different ways for advertisement. Some of the types of advertisement are: Internet/online directories, Trade and technical press, Radio, Cinema, Outdoor advertising, National papers, magazines and TV. Advertising business is very competitive as a lot of players bid a lot of money in a single segment of business to target the same audience. Here comes the analytical skills of the company to target those audiences from those types of media platforms where they convert them to their customers at a low cost.
 ### [Dataset Link](https://docs.google.com/spreadsheets/d/16x970JtJIFsuBNRtKADdY8f8JnIHbnj9/edit?usp=drive_link&ouid=108163419555924228602&rtpof=true&sd=true)
 ## About the data
 1. **ID**: This is a unique identifier for each entry in the report. It helps in tracking and referencing specific ads or airings.
@@ -22,3 +24,11 @@
 19. **TimeZone**: The time zone in which the advertisement was aired.
     
 These parameters provide detailed information about when, where, and how advertisements are aired, helping companies analyze the effectiveness of their advertising campaigns and make data-driven decisions for future strategies.
+### Case Study Objectives:
+1. What is Pod Position? Does the Pod position number affect the amount spent on Ads for a specific period of time by a company? (Explain in Details with examples from the dataset provided)
+
+2. What is the share of various brands in TV airings and how has it changed from Q1 to Q4 in 2021?
+
+3. Conduct a competitive analysis for the brands and define advertisement strategy of different brands and how it differs across the brands.
+
+4. Mahindra and Mahindra wants to run a digital ad campaign to complement its existing TV ads in Q1 of 2022. Based on the data from 2021, suggest a media plan to the CMO of Mahindra and Mahindra. Which audience should they target?
