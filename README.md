@@ -32,3 +32,16 @@ These parameters provide detailed information about when, where, and how adverti
 3. Conduct a competitive analysis for the brands and define advertisement strategy of different brands and how it differs across the brands.
 
 4. Mahindra and Mahindra wants to run a digital ad campaign to complement its existing TV ads in Q1 of 2022. Based on the data from 2021, suggest a media plan to the CMO of Mahindra and Mahindra. Which audience should they target?
+
+### _Study 1_
+In advertising, a "pod" refers to a grouping of advertisements that are aired together during a commercial break. The "pod position" refers to the sequential order of an advertisement within a pod. For example, if there are three ads in a pod, the pod positions would be 1, 2, and 3, indicating the first, second, and third ad in the pod, respectively.
+
+Pod Position and Ad Effectiveness:
+
+Generally, the position of an ad within a pod can influence its effectiveness. Advertisers often aim to secure the first or last position within a pod because these positions tend to receive more attention from viewers.
+For example, if an ad is placed in the first position within a pod, viewers may be more likely to watch it because they haven't been exposed to other ads yet. Similarly, if an ad is placed last, viewers might pay more attention to it as they wait for the program to resume.
+But in this case by calculating the total sum of amount spend in different pod position I found that Pod position directly affects the amount spent on airing. Higher the spending lesser the pod position.
+
+![Screenshot (9)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/d018dd6e-5a33-4f03-aba8-7673c6f4fb3b)
+
+
