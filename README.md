@@ -44,4 +44,11 @@ But in this case by calculating the total sum of amount spend in different pod p
 
 ![Screenshot (9)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/d018dd6e-5a33-4f03-aba8-7673c6f4fb3b)
 
+### _Study 2_
+The following graph shows the various brand in TV airings and how it has changed from Q1 to Q2 in the year 2021, and from the data its clear the brands share in the first Quarter of the year 2021 is maximum. Among the brands Maruti Suzuki has the highest share of ads among all.
 
+![Screenshot (10)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/06660775-b879-42e4-94a0-e4a72935f9c3)
+
+The next graph shows the sum of EQ Units by Brands according to the different Quarters of the year.
+
+![Screenshot (11)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/f0bdfe04-ef15-4898-9b7a-aca77ad99bed)
