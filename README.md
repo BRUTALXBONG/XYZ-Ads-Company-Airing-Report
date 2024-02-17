@@ -60,3 +60,17 @@ Insights:
 * Toyota has spent most of its money for airing the ads on weekend followed by Primetime.
 * Maruti Suzuki and Honda Cars had aired ads maximum number of times on the Daytime thus shows it has provided most number of ads exposure during this time followed by MAhindra and Mahindra.
 ![Screenshot (12)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/9fcae813-37aa-42cd-abf3-2b4becb087fb)
+
+### _Study 4_
+Insights:
+
+* Mahindra and Mahindra has spent most of its expenditure on weekend and prime time on days 6 and 7.
+* Mahindra and Mahindra has also spent a considerable amount of its expenditure on all days of the week at Prime time.
+* Mahindra had spent more revenue in cable networks than braodcast like other companies.
+  
+Conclusion:
+
+* Mahindra and Mahindra should focus on all time zones to register their brand all over India especially the northern part like other brands to be able to compete with the other brands at the northern part.
+* Mahindra and Mahindra should consider spending more on Overnight slots on the weekend as many people tend to watch TV on the weekend nights.
+![Screenshot (13)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/10488ba6-f608-4827-bcdf-95d57baac2d5)
+
