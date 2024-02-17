@@ -42,7 +42,8 @@ Generally, the position of an ad within a pod can influence its effectiveness. A
 For example, if an ad is placed in the first position within a pod, viewers may be more likely to watch it because they haven't been exposed to other ads yet. Similarly, if an ad is placed last, viewers might pay more attention to it as they wait for the program to resume.
 But in this case by calculating the total sum of amount spend in different pod position I found that Pod position directly affects the amount spent on airing. Higher the spending lesser the pod position.
 
-![Screenshot (9)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/d018dd6e-5a33-4f03-aba8-7673c6f4fb3b)
+![Screenshot (14)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/721f282f-97af-4fc8-9a0d-5bea4d6f5cb8)
+
 
 ### _Study 2_
 The following graph shows the various brand in TV airings and how it has changed from Q1 to Q2 in the year 2021, and from the data its clear the brands share in the first Quarter of the year 2021 is maximum. Among the brands Maruti Suzuki has the highest share of ads among all.
@@ -59,6 +60,7 @@ Insights:
 * Hyundai, Mahindra and Mahindra, Maruti Suzuki and Tata motors have spent most of their money for Prime time with Maruti Suzuki being the highest.
 * Toyota has spent most of its money for airing the ads on weekend followed by Primetime.
 * Maruti Suzuki and Honda Cars had aired ads maximum number of times on the Daytime thus shows it has provided most number of ads exposure during this time followed by MAhindra and Mahindra.
+  
 ![Screenshot (12)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/9fcae813-37aa-42cd-abf3-2b4becb087fb)
 
 ### _Study 4_
@@ -72,5 +74,6 @@ Conclusion:
 
 * Mahindra and Mahindra should focus on all time zones to register their brand all over India especially the northern part like other brands to be able to compete with the other brands at the northern part.
 * Mahindra and Mahindra should consider spending more on Overnight slots on the weekend as many people tend to watch TV on the weekend nights.
+
 ![Screenshot (13)](https://github.com/BRUTALXBONG/XYZ-Ads-Company-Airing-Report/assets/125906962/10488ba6-f608-4827-bcdf-95d57baac2d5)
 
